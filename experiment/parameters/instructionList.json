@@ -1,0 +1,14 @@
+[
+    {
+        "name":"mainInstructions",
+        "paramsFile":"parameters/mainInstructions.json"
+    },
+    {
+        "name":"instructLoop",
+        "paramsFile":"parameters/instructLoop.json"
+    },
+    {
+        "name":"completionInstructions",
+        "paramsFile":"parameters/completionInstructions.json"
+    }
+]

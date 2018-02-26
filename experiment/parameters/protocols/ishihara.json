@@ -1,0 +1,32 @@
+{
+	"database":"iadapt",
+	"tableName":"Users",
+	"fieldName" :"ishiharaScore",
+	"backgroundcolor":"(256,256,256)",
+	"textColor":"(0, 0, 0)",
+	"promptWidth": "1000",
+	"promptHeight": "100",
+	"fontsize":"30",
+	"buttonwidth": "200",
+	"buttonHeight": "50",
+	"buttonfontSize" : "20",
+	"textBoxWidth":"300",
+	"textBoxHeight":"30",
+	"ishImageHeight":"300",
+	"ishImageWidth":"300",
+	"textBoxbgColor":"(128,128,128)",
+	"ishSeq":[
+	"images/ishiharaImages/ishihara0.jpg",
+	"images/ishiharaImages/ishihara1.jpg",
+	"images/ishiharaImages/ishihara2.jpg",
+	"images/ishiharaImages/ishihara3.jpg",
+	"images/ishiharaImages/ishihara4.jpg",
+	"images/ishiharaImages/ishihara5.jpg",
+	"images/ishiharaImages/ishihara6.jpg",
+	"images/ishiharaImages/ishihara7.jpg"
+	],
+	"ishAnswers":[
+	2,5,42,7,29,6,57,10
+	],
+	"displayExperNum":1
+}

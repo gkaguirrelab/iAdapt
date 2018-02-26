@@ -1,0 +1,12 @@
+{
+	"stimulusSeq":"parameters/sequences/imageRating.txt",
+	"imageFilenameRoot":"img",
+	"imageFileExtension":"jpg",
+	"imageSize":"5",
+	"trialDuration":"2000",
+	"ISI":"100",
+	"instructionsPre":"parameters/instructions/preExperimentCalibrationColor.txt",
+	"instructionsBreak":"parameters/instructions/duringExperiment.txt",
+	"instructionsPost":"parameters/instructions/postExperiment.txt",
+	"trialsPerBlock":"10"
+}

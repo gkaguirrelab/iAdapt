@@ -1,0 +1,10 @@
+{
+	"database": "iadapt",
+	"instructions":"parameters/instructions/completion.txt",
+	"backgroundcolor":"(0,0,0)",
+	"textColor":"(256, 256, 256)",
+	"width": "1000",
+	"height": "100",
+	"fontsize":"30"
+
+}

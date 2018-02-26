@@ -1,0 +1,99 @@
+
+
+
+
+SUMMARY OF RESULTS
+- there is some correlation across subject in face and color bias. We therefore focus upon one of these (color)
+	Face Bias - Color Bias
+		DATASET 1: The correlation between Color bias and Face bias is r=0.24 (p=0.0148)
+		DATASET 2: The correlation between Color bias and Face bias is r=0.19 (p=0.0557)
+
+- There is across subject variability in color bias that is greater than the within subject variability (this is the technically correct statement of the "individual differences" claim). The same is true of precision (right?). We therefore will examine the relationship between bias and precision both within and between subjects.  
+	Effect of Session vs Subject on BIAS
+		--- DATASET 1 ---
+		The effect of session on Color bias was F(1,100) = 0.00 (p=0.9447). The effect of subject was F(100,100) = 3.91 (p=0.0000)
+		The effect of session on Face bias was F(1,100) = 0.42 (p=0.5203). The effect of subject was F(100,100) = 2.87 (p=0.0000)
+		--- DATASET 2 ---
+		The effect of session on Color bias was F(1,100) = 6.04 (p=0.0157). The effect of subject was F(100,100) = 4.54 (p=0.0000)
+		The effect of session on Face bias was F(1,100) = 3.09 (p=0.0820). The effect of subject was F(100,100) = 2.05 (p=0.0002)
+		--- DATASET: COLORS ONLY ---
+		The effect of session on Color bias was F(5,490) = 2.27 (p=0.0462). The effect of subject was F(98,490) = 8.05 (p=0.0000)
+		--- DATASET: FACES ONLY ---
+		The effect of session on Face bias was F(5,465) = 0.68 (p=0.6415). The effect of subject was F(93,465) = 3.44 (p=0.0000)
+		--- DATASET: COLORS ONLY - HIGH SATURATION ---
+		The effect of session on Color bias was F(5,480) = 5.09 (p=0.0001). The effect of subject was F(96,480) = 4.14 (p=0.0000)
+	Effect of Session vs Subject on PRECISION
+		--- DATASET 1 ---
+		The effect of session on Color precision was F(1,100) = 0.51 (p=0.4786). The effect of subject was F(100,100) = 3.87 (p=0.0000)
+		The effect of session on Face precision was F(1,100) = 0.00 (p=0.9458). The effect of subject was F(100,100) = 2.98 (p=0.0000)
+		--- DATASET 2 ---
+		The effect of session on Color precision was F(1,100) = 1.59 (p=0.2096). The effect of subject was F(100,100) = 4.32 (p=0.0000)
+		The effect of session on Face precision was F(1,100) = 0.00 (p=0.9637). The effect of subject was F(100,100) = 1.88 (p=0.0009)
+		--- DATASET: COLORS ONLY ---
+		The effect of session on Color precision was F(5,490) = 5.79 (p=0.0000). The effect of subject was F(98,490) = 10.35 (p=0.0000)
+		--- DATASET: FACES ONLY ---
+		The effect of session on Face precision was F(5,465) = 1.04 (p=0.3912). The effect of subject was F(93,465) = 6.77 (p=0.0000)
+
+- Across subject, color precision and color bias are anti-correlated
+	Bias-precision COLORS (across subjects)
+		DATASET 1: The correlation between Color precision and Color bias across subjects is r=-0.06 (p=0.5441)
+		           Controlling for matching precision, the significance of the effect is p=0.5985
+		DATASET 2: The correlation between Color precision and Color bias across subjects is r=-0.35 (p=0.0004)
+		           Controlling for matching precision, the significance of the effect is p=0.0028
+		DATASET COLOR ONLY: The correlation between Color precision and Color bias across subjects is r=-0.28 (p=0.0055)
+		           Controlling for matching precision, the significance of the effect is p=0.0023
+		DATASET COLOR ONLY - HIGH SATURATION: The correlation between Color precision and Color bias across subjects is r=-0.27 (p=0.0083)
+		           Controlling for matching precision, the significance of the effect is p=0.0109
+
+	Bias-precision FACES (across subjects)
+		DATASET 1: The correlation between Face precision and Face bias across subjects is r=-0.09 (p=0.3941)
+		           Controlling for matching precision, the significance of the effect is p=0.9976
+		DATASET 2: The correlation between Face precision and Face bias across subjects is r=-0.15 (p=0.1398)
+		           Controlling for matching precision, the significance of the effect is p=0.3617
+		DATASET FACE ONLY: The correlation between Face precision and Face bias across subjects is r=-0.23 (p=0.0283)
+		           Controlling for matching precision, the significance of the effect is p=0.0549
+
+- Within subject, color precision and color bias are anti-correlated
+	Bias-precision (within subject)
+		DATASET COLORS ONLY: The mean correlation between Color precision and Color bias within subject is r=-0.09, t(98)=-2.00 (p=0.0482)
+		DATASET FACES ONLY: The mean correlation between Face precision and Face bias within subject is r=-0.04, t(93)=-0.79 (p=0.4305)
+		DATASET COLORS ONLY - HIGH SATURATION: The mean correlation between Color precision and Color bias within subject is r=-0.29, t(96)=-5.98 (p=0.0000)
+
+- if we modify the experiment to decrease precision, bias further increases
+
+- across colors, there is some consistent pattern to response bias (different from adapt bias)
+
+-Subregions of the wheel
+
+
+
+-Tertiles and response distribution asymmetry
+	DATASET COLOR ONLY - LOW SATURATION:
+		-In the lowest precision tertile, 51.28%/48.72% of the errors are below/above the mean.
+		-In the middle precision tertile, 49.24%/50.76% of the errors are below/above the mean.
+		-In the highest precision tertile, 51.55%/48.45% of the errors are below/above the mean.
+	DATASET COLOR ONLY - HIGH SATURATION:
+		-In the lowest precision tertile, 53.31%/46.69% of the errors are below/above the mean.
+		-In the middle precision tertile, 51.41%/48.59% of the errors are below/above the mean.
+		-In the highest precision tertile, 53.32%/46.68% of the errors are below/above the mean.
+
+
+
+interaction: p=7.5937e-05
+subject: p=1.2346e-05
+material: p=1.5239e-09
+subject-material: p=0.9888
+measurement: 4.4800e-04
+subject-measurement: p=1.0
+
+
+
+
+
+
+FUTURE ANALYSES
+- Analyze the data across color bins from the working memory experiment to see if there are biases in reporting particular colors from memory (i.e., people tend to mis-remember an aqua as green). I don't recall how finely we randomize the points on the color wheel, but one could imagine describing the data with two color wheels. The inner color wheel would be the veridical color presented, and the outer color wheel would be, for each corresponding angle, the mean color that observers tend to report.
+
+- Vary the angle of the adapter relative to the target. Burges: A smaller angle might produce a larger bias effect. Stocker: Making the measurement across a set of angles may be used to better understand the relationship between precision and bias
+
+- Within subject, examine the slope of the relationship between precision and bias across blocks. Aggregate these slopes across subjects, and see if the set of slopes differ from zero.

@@ -1,0 +1,14 @@
+{
+	"prompt":"parameters/instructions/instructLoop.txt",
+	"backgroundcolor":"(0,0,0)",
+	"textColor":"(256, 256, 256)",
+	"width": "1000",
+	"height": "100",
+	"titleFontSize": "35",
+	"textFontSize": "25",
+	"buttonwidth": "200",
+	"buttonHeight": "50",
+	"buttonfontSize":"20"
+
+
+}

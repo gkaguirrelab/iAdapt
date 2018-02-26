@@ -1,0 +1,8 @@
+This next section is very similar to the last, except now faces are now used instead of colors. There will be 50 trials, which should take you about 5 minutes to complete.
+
+A reminder on the directions:
+At the start of each trial, you will be shown a single face in the center of the screen. After a brief pause the face will change to a different "target" face. A fuzzy image will be presented briefly before the face selection wheel appears.
+
+Your task is to match the target (the second face that appeared) with an identical face on the face wheel. The first face and the fuzzy image should be ignored.
+
+Make a response by first clicking anywhere on the wheel to make the center visible. Then, move your mouse around the wheel until you have found a match. Finally, click again to record your choice. Remember- every space on the wheel will produce a different face, not just the 8 images around the wheel. You will be given a limited amount of time to make your choice, so try to answer as quickly as possible.

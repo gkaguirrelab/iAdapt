@@ -1,0 +1,7 @@
+This is a practice block. There will be a total of 5 trials, and you must respond with hich accuracy in every trial in order to advance.
+
+On each trial, you will first be presented with an image in the center of the screen. This image will be replaced by a second image, and that's the image you should report afterwards. Your task is to match the second image with an identical image on the color wheel.
+
+Remember that the first image should be ignored, and you should only remember the second image. Also, the second image may be presented very briefly, so pay a lot of attention!
+
+Make a response by first clicking anywhere on the wheel to make the center visible. Then, move your mouse around the wheel until you have found a match. Finally, click again to record your choice. Remember- every place on the wheel will produce a different image, not just the 8 samples around the wheel. You will be given a limited amount of time to make your choice, so try to answer accurately but without taking too long.

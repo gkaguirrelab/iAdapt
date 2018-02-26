@@ -1,0 +1,15 @@
+1. 
+range - 0: 359
+L - 25
+Saturation - 18
+
+2. 
+range - 0: 359
+L - 25
+Saturation - 15
+
+3. 
+
+range - 0: 359
+L - 25
+Saturation - 12

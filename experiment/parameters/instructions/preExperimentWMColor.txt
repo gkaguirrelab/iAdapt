@@ -1,0 +1,7 @@
+The next section has 120 trials, which will take about 20 minutes to complete.
+
+At the start of each trial, you will be shown a single, "target" color in the center of the screen. The target color will be quickly replaced by a fuzzy image, and then the color selection wheel.
+
+Your task is to match the target (first color that appeared) with an identical color on the color wheel. The fuzzy image should be ignored and is not an issue with your computer. 
+
+Make a response by first clicking anywhere on the wheel to make the center visible. Then, move your mouse around the wheel until you have found a match. Finally, click again to record your choice. Remember- every space on the wheel will produce a different color, not just the 8 images around the wheel. You will be given a limited amount of time to make your choice, so try to answer as quickly as possible.

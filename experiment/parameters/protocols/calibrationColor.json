@@ -1,0 +1,60 @@
+{
+	"database":"iadapt",
+	"dbTableName":"calibColor",
+	"stimulusSeq":"parameters/sequences/calibrationColor.txt",
+	"wheelRotation":"parameters/sequences/calibrationRotationColor.txt",
+	"stimulusList":"images/stimuli/color360.txt",
+	"wheelSize":"0.6",
+	"centerSize":"0.3",
+	"thumbSize":"0.2",
+	"instructionsPre":"parameters/instructions/preExperimentCalibrationColor.txt",
+	"instructionsBreak":"parameters/instructions/duringExperiment.txt",
+	"instructionsPost":"parameters/instructions/postExperiment.txt",
+	"trialsPerBlock":"24",
+	"totalTrials" : "24",
+	"backgroundcolor":"(0, 0, 0)",
+	"textColor":"(256, 256, 256)",
+	"displayExperNum":1,
+	"minimumClickTime" : 1000,
+	"maxClickTime":5000,
+	"instructLoop":
+		{"questions" :[
+		"Question 1. What is the goal of this task?",
+		"Question 2. How do you make a choice?",
+		"Question 3. How is the color wheel organized?"
+		],
+		"choices": [[
+		"a. To match the color on the left side of the screen with an identical color on the color wheel",
+		"b. To match the color on the right side of the screen with an identical color on the color wheel",
+		"c. To match the color on the left and right side of the screen with an identical color on the color wheel"
+		],
+		[
+		"a. Move your cursor around the wheel, and then click once",
+		"b. Move your cursor around the wheel until you have found your choice and then wait 3 seconds until the next trial appears",
+		"c. First click on the wheel to make the center visible, move your cursor around the wheel to find a match, and then click again"
+		],
+		[
+		"a. Moving your cursor all along wheel will produce a different color, not just the 8 images around the wheel",
+		"b. There are 20 images equally spaced around the wheel",
+		"c. Only the 8 images around the wheel will do anything when selected"
+		]],
+		"answers":[
+		"c. To match the color on the left and right side of the screen with an identical color on the color wheel",
+		"c. First click on the wheel to make the center visible, move your cursor around the wheel to find a match, and then click again",
+		"a. Moving your cursor all along wheel will produce a different color, not just the 8 images around the wheel"
+		]},
+	"instructWidth": "1000",
+	"instructHeight": "100",
+	"instructFontsize":"30",
+	"instructButtonwidth": "200",
+	"instructButtonHeight": "50",
+	"instructButtonfontSize" : "20",
+	"instructShiftFromTop":"6",
+	"progressWidth": ".7",
+	"progressHeight":".05",
+	"progressBackgroundColor":"(0,255,0)",
+	"progressForegroundColor":"(255,0,0)",
+	"progressPercentFromTop":"4",
+	"progressInterval": 200
+	
+}

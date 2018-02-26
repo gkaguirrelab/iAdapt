@@ -1,0 +1,229 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Welcome</title>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<style>
+
+#body{background-color: rgb(255,255,255);}
+#header2, #header3, #header4, #header5, #link, #enterButton{
+
+color: rgb(100,100,100); 
+font-family: "Helvetica Neue", "HelveticaNeue-Light", "Helvetica Neue Light"; 
+margin-left: 150px; 
+margin-right: 150px; 
+width : 50%;
+
+
+
+
+}
+#header1{
+
+font-size:60px;
+min-width:800px;
+}
+
+#header6, #header7, #header1{
+
+
+font-family: "Trebuchet MS", Helvetica, sans-serif; 
+color: rgb(255,255,255);
+margin-left: 150px; 
+margin-right: 150px; 
+
+
+}
+
+#header6{
+
+margin-top : 0px;
+text-wrap:none;
+}
+
+#header1{
+
+margin-top:-20px;
+text-wrap:none;
+}
+
+#header7{
+
+margin-top: -40px;
+text-wrap:none;
+}
+
+
+#enterButton{
+	position: absolute;
+	font-size: XX-Large;
+	top: 25px;
+	left: 614px;
+	width : 300px;
+	height: 290px;
+}
+
+.logos{
+
+position: relative;
+margin: 0 auto;
+width : 100%;
+
+}
+
+.logos img{
+
+margin-bottom: 50px;
+
+}
+
+
+
+#img1{
+
+margin-left: 5%;
+
+}
+
+#img2{
+
+margin-left: 15%;
+
+}
+
+#img3{
+
+margin-left : 25%;
+
+}
+
+ 
+
+#horizStrip{
+
+position: absolute;
+z-index: -1;
+top: 40px;
+
+}
+
+#header3{
+
+margin: 0 auto;
+text-align: center;
+
+}
+
+.mainContainer{
+
+
+position: relative;
+top:320px;
+max-width: 1500px;
+
+}
+
+.main{
+
+position: absolute;
+top:0;
+left:0;
+right:0;
+bottom:0;
+
+}
+
+.heading{
+
+position: absolute;
+top:80px;
+text-wrap:none;
+}
+
+
+
+</style>
+</head>
+
+<body id = "body" style = "margin-left: 0px; margin-right: 0px; margin-bottom: 0px; margin-top: 0px;">
+
+
+<canvas id = "horizStrip"></canvas>
+
+
+<div class = "heading">
+	<h2 id = "header6">This is a Web-Based Study of</h2>
+	<h1 id = "header1">VISUAL PERCEPTION <br> & MEMORY</h1>
+	<h2 id = "header7">conducted by the University of Pennsylvania</h2>
+</div>
+
+<div class= "mainContainer">
+
+<div class = "main">
+<table width="80%" border="0">
+  <tr>
+    <td>
+    <h3 id = "header2">
+		This website contains a series of tests that measure your perception ability and memory for faces and colors. These tests are part of a research study at the University of Pennsylvania, conducted by the <a href = "http://cfn.upenn.edu/aguirre">GKAguirre Lab</a>. We do not ask for or collect any information that could be used to identify you as an individual. Your anonymous performance results will be used in our studies to understand perception and memory, and may be shared with other researchers or even released publicly.
+	</h3>
+	<h3 id = "header5">
+		When you have completed the test, we'll give you a score for your memory for faces and colors, and let you know how you compare to other people who have been tested.
+	</h3>
+    </td>
+    <td>
+    	<form id = "userBackground" method = "post" action = "">
+		<button id = "enterButton">Get Started!</button>
+		</form>
+    </td>
+  </tr>
+</table>
+
+	
+    	
+     
+    
+<br><br>
+<div id = "header3">
+	Of course, your participation in this study is entirely voluntary and you can leave the website at any time. If you have any questions or comments about the website or the study, please email Dr. GK Aguirre <a href = "mailto:GKAguirreLab@gmail.com" id = "link2">GKAguirreLab@gmail.com</a>
+</div>
+	
+<div class = "logos">
+		<a href = "http://www.upenn.edu/"><img src = "images/logos/PennLogo.jpg" style = "height: 20%; width: 20%;" id = "img1"></a>
+		<a href = "http://ccn.upenn.edu/"><img src = "images/logos/CCNLogo.png" style = "height: 20%; width: 20%;" id = "img2"></a>
+		<a href = "https://cfn.upenn.edu/aguirre/wiki/start"><img src = "images/logos/AguirreLogo.png" style = "height: 20%; width: 10%;" id = "img3"></a>
+</div>
+
+</div>
+
+</div>
+
+
+<script>
+
+	canvas = document.getElementById("horizStrip");
+    ctx = canvas.getContext("2d");
+
+
+	canvas.height = 280;
+ 	canvas.width = screen.width;
+ 	
+ 	
+ 	ctx.rect(0,0,canvas.width,canvas.height);
+	ctx.fillStyle="rgb(0,0,0)";
+	ctx.fill();
+
+$("#enterButton").click(function(){
+	
+	document.forms[0].action = "main.html";
+
+});
+
+
+
+</script>
+
+
+</body>
+</html>

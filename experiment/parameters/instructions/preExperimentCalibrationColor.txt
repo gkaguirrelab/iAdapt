@@ -1,0 +1,5 @@
+This first section will familiarize you with the experiment. There will be 120 trials, which should take about 20 minutes to complete.
+
+On each trial, you will be shown a color selection wheel, as well as a color on the left and right side of the screen. Your task is to match the color on the left and right side of the screen (they will both be the same color) with an identical color on the color wheel.
+
+Make a response by first clicking on the wheel to make the center visible. Then move your mouse around the wheel until you have found a match, and click again to make your choice. Remember- every space on the wheel will produce a different color, not just the 8 images around the wheel. You will be given a limited amount of time to make your choice, so try to answer as quickly as possible.

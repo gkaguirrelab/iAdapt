@@ -1,0 +1,65 @@
+[
+    {
+
+    "name":"screenCalibration",
+    "paramsFile":"parameters/protocols/screenCalibration.json",
+    "jsFile":"js/protocols/screenCalibration.js",
+    "shuffle":0
+
+    },
+    {
+        "name":"ishihara",
+        "paramsFile":"parameters/protocols/ishihara.json",
+        "jsFile":"js/protocols/ishihara.js",
+        "shuffle":0
+    },
+    {
+        "name":"calibrationColor",
+        "paramsFile":"parameters/protocols/calibrationColor.json",
+        "jsFile":"js/protocols/calibrationColor.js",
+        "shuffle":0
+    },
+    {
+        "name":"calibrationFace",
+        "paramsFile":"parameters/protocols/calibrationFace.json",
+        "jsFile":"js/protocols/calibrationFace.js",
+        "shuffle":0
+    },
+    {
+        "name":"workingMemoryColor",
+        "paramsFile":"parameters/protocols/workingMemoryColor.json",
+        "jsFile":"js/protocols/workingMemoryColor.js",
+        "shuffle":0
+    },
+    {
+        "name":"workingMemoryFace",
+        "paramsFile":"parameters/protocols/workingMemoryFace.json",
+        "jsFile":"js/protocols/workingMemoryFace.js",
+        "shuffle":0
+    },
+    {
+        "name":"primeColorLong",
+        "paramsFile":"parameters/protocols/primeColorLong.json",
+        "jsFile":"js/protocols/primeColorLong.js",
+        "shuffle":0
+    },
+    {
+        "name":"primeFaceLong",
+        "paramsFile":"parameters/protocols/primeFaceLong.json",
+        "jsFile":"js/protocols/primeFaceLong.js",
+        "shuffle":0
+    },
+    {
+        "name":"primeColorShort",
+        "paramsFile":"parameters/protocols/primeColorShort.json",
+        "jsFile":"js/protocols/primeColorShort.js",
+        "shuffle":0
+    },
+    {
+        "name":"primeFaceShort",
+        "paramsFile":"parameters/protocols/primeFaceShort.json",
+        "jsFile":"js/protocols/primeFaceShort.js",
+        "shuffle":0
+    }
+
+]

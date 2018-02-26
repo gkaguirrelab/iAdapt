@@ -1,0 +1,3 @@
+In the lowest precision tertile, 51.28%/48.72% of the errors are below/above the mean.
+In the middle precision tertile, 49.24%/50.76% of the errors are below/above the mean.
+In the highest precision tertile, 51.55%/48.45% of the errors are below/above the mean.

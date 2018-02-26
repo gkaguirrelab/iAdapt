@@ -1,0 +1,8 @@
+There will be a total of 12 trials, which should take you a total of 2-3 minutes to complete.
+
+A reminder on the directions:
+At the start of each trial, you will be shown a single face in the center of the screen. This face will be shown for several seconds and should be ignored. Afterwards, a second face will flash briefly on your screen, and that's the face you should report afterwards. This brief target face will be followed by a fuzzy image, which should also be ignored.
+
+Your task is to match the this briefly presented face with an identical face on the face wheel. Remember that the first face and the fuzzy image should be ignored, and that the target face will be presented very briefly, so pay a lot of attention!
+
+Make a response by first clicking anywhere on the wheel to make the center visible. Then, move your mouse around the wheel until you have found a match. Finally, click again to record your choice. Remember- every space on the wheel will produce a different face, not just the 8 images around the wheel. You will be given a limited amount of time to make your choice, so try to answer as quickly as possible.

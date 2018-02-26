@@ -1,0 +1,8 @@
+Thought that was hard? Here is a new set of faster trials. There will be 50 trials, which should take about 5 minutes to complete.
+
+A reminder on the directions:
+At the start of each trial, you will be shown a single color in the center of the screen. This color will be shown for several seconds and should be ignored. Afterwards, a second color will flash briefly on your screen, and that's the color you should report afterwards. This brief target color will be followed by a fuzzy image, which should also be ignored.
+
+Your task is to match the this briefly presented color with an identical color on the color wheel. Remember that the first color and the fuzzy image should be ignored, and that the target color will be presented very briefly, so pay a lot of attention!
+
+Make a response by first clicking anywhere on the wheel to make the center visible. Then, move your mouse around the wheel until you have found a match. Finally, click again to record your choice. Remember- every space on the wheel will produce a different color, not just the 8 images around the wheel. You will be given a limited amount of time to make your choice, so try to answer as quickly as possible.

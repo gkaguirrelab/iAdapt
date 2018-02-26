@@ -1,0 +1,13 @@
+{
+	"calibrationImgSrc":"images/screenCalibrator.png",
+	"backgroundcolor":"(0,0,0)",
+	"textColor":"(255, 255, 255)",
+	"promptWidth": "1000",
+	"promptHeight": "100",
+	"fontsize":"18",
+	"buttonwidth": "200",
+	"buttonHeight": "50",
+	"buttonfontSize" : "20",
+	"imageHeight":".8",
+	"imageWidth":"1"
+}

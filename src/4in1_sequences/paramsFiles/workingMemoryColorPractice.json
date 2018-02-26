@@ -1,0 +1,69 @@
+{
+	"database":"iAdapt",
+	"dbTableName":"workingMemoryColor",
+	"stimulusSeq":"parameters/sequences/wmColorPractice.txt",
+	"wheelRotation":"parameters/sequences/wmRotationColor.txt",
+	"stimulusList":"images/stimuli/color360.txt",
+	"maskAddress":"images/colorMask.png",
+	"wheelSize":"0.6",
+	"centerSize":"0.3",
+	"thumbSize":"0.2",
+	"instructionsPre":"parameters/instructions/preExperimentWMColor.txt",
+	"instructionsBreak":"parameters/instructions/duringExperiment.txt",
+	"instructionsPost":"parameters/instructions/postExperiment.txt",
+	"trialsPerBlock":"5",
+	"totalTrials" : "5",
+	"backgroundcolor":"(0, 0, 0)",
+	"textColor":"(256, 256, 256)",
+	"displayExperNum":1,
+	"minimumClickTime" : 2000,
+	"maxClickTime":10000,
+	"ISI":500,
+	"target_duration":2000,
+	"blank_after_target_duration":100,
+	"mask_duration":200,
+	"blank_after_mask":4000,
+	"instructLoop":
+		{"questions" :[
+		"Question 1. What is the goal of this task?",
+		"Question 2. How do you make a choice?",
+		"Question 3. What should you do with the fuzzy image?"
+		],
+		"choices": [[
+		"a. To match the first color that appears in the center of the screen with an identical color on the color wheel",
+		"b. To match the second color that appears in the center of the screen with an identical color on the color wheel",
+		"c. To match the color on the left and right side of the screen with an identical color on the color wheel"
+		],
+		[
+		"a. First click on the wheel to make the center visible, move your cursor around the wheel to find a match, and then click again",
+		"b. Move your cursor around the wheel, and then click once",
+		"c. Move your cursor around the wheel until you have found your choice and then wait 5 seconds until the next trial appears"
+		],
+		[
+		"a. Move your cursor around it",
+		"b. Select it on the color wheel", 
+		"c. It should be ignored. It is placed intentionally and is not an issue with your computer"
+		]],
+		"answers":[
+		"a. To match the first color that appears in the center of the screen with an identical color on the color wheel",
+		"a. First click on the wheel to make the center visible, move your cursor around the wheel to find a match, and then click again",
+		"c. It should be ignored. It is placed intentionally and is not an issue with your computer"
+		]},
+	"instructWidth": "1000",
+	"instructHeight": "100",
+	"instructFontsize":"30",
+	"instructButtonwidth": "200",
+	"instructButtonHeight": "50",
+	"instructButtonfontSize" : "20",
+	"instructShiftFromTop":"6",
+	"progressWidth": ".7",
+	"progressHeight":".05",
+	"progressBackgroundColor":"(25,25,25)",
+	"progressForegroundColor":"(192,192,192)",
+	"progressPercentFromTop":"4",
+	"progressInterval": 200,
+	"payByPerformance":1,
+	"minPerformance": "20",
+	"paymentFull": ".10",
+	"practiceThreshold": 10
+}

@@ -1,0 +1,5 @@
+This is a practice block. There will be a total of 5 trials, and you must respond with hich accuracy in every trial in order to advance.
+
+On each trial, you will be shown a color selection wheel, as well as a color on the left and right side of the screen. Your task is to match the color on the left and right side of the screen (they will both be the same color) with an identical color on the color wheel.
+
+Make a response by first clicking on the wheel to make the center visible. Then move your mouse around the wheel until you have found a match, and click again to make your choice. Remember- every space on the wheel will produce a different color, not just the 8 images around the wheel. You will be given a limited amount of time to make your choice, so try to answer as quickly as possible.
